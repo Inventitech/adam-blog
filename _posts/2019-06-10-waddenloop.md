@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Day X: Wadden loop'
+title:  'Day 61: Wadden loop'
 date:   2019-06-10
 img:    waddenzee.jpg # Add image post (optional)
 tags: [Blog, Road Bike]
@@ -49,8 +49,9 @@ super hungry at the end of it (and actually for some time in the days
 to come).
 
 On the train to Den Haag, we went through quite some rain, of which we
-had none during this nice 2-day outing. Again, perfect planning and a
-bit of luck.
+had none while we were on the bikes during this nice 2-day
+outing. Again, perfect planning that the outsiders might consider
+sheer luck ;).
 
 Tot zo,
 
