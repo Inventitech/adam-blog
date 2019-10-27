@@ -135,9 +135,11 @@ did not have enough time to do that anymore.
 
 ```
 Project duration: 72 days
-Length: 2413,4 km (33,5 km/day; 73 km/ride)
 Number of activities: 39 (33 rides, 2 runs, 3x Yoga, 1x climbing)
 Number of blog posts: 36
+Length: 2413,4 km (33,5 km/day; 73 km/ride)
+Duration: 108 hours 26 mins (1.5 hours/day, 3 hour/activity)
+Elevation gain: 6,693m 
 FTP: 195 Watts 
 ```
 
