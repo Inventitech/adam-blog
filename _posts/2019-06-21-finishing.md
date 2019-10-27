@@ -57,17 +57,22 @@ every ride in writing and not just in Strava activities.
   the thing I regret least, because I think those steep ramps would
   have required a different gearing, too.
 
-Overall, I also felt like I could have cycled more. An average of
-33km/day does not really sound a lot, but combined with the
-constraints, all other things that were going on, and the weather
-really not being nice (last year, spring and early summer was much
-more pleasant in the Netherlands), I think it is still OK. Actually, I
-thought in the beginning whether I should aim for 3000km, but doing a
-bit of back-on-the-envelope math, that seemed quite realistic. What I
-do regret is that I never really got into a standard routine of
-putting on my gear and have completely standardized spots where I put
-my things. Many times, this meant I was looking for my sun glasses,
-helmet, Wahoo Elemnt Bolt (that one was really bad), ...
+Overall, with 2,400km, I felt like I could have cycled more. An
+average of 33km/day does not really sound a lot, but combined with all
+other things that were going on, and the weather really not being nice
+(last year, spring and early summer was much more pleasant in the
+Netherlands), I think it is still OK. Actually, I thought in the
+beginning whether I should aim for 3,000km, but doing a bit of
+back-on-the-envelope math, that seemed quite optimistic. A statistics
+that surprised me was the elevation gain I did. Given that the
+Netherlands is mostly pancake flat, over 6,000 meters seems fairly
+high! Probaly caused by the dunes close to Den Haag and the one ride
+with Martin with 1,400 meters helped, too. Plus, there might be some
+GPS inaccuracies. What I do regret is that I never really got into a
+standard routine of putting on my gear and have completely
+standardized spots where I put my things. Many times, this meant I was
+looking for my sun glasses, helmet, Wahoo Elemnt Bolt (that one was
+really bad), ...
 
 **What I did accomplish**
 
